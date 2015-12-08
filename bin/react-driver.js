@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 
 process.on('unhandledRejection', function (reason) {
-  console.error('Unhandled Rejection: ', reason)
-  process.exit('SIGTERM')
+  process.emit("SIGINT")
+  throw reason
 })
 
 require('babel-register')
