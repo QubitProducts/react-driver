@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 process.on('unhandledRejection', function (reason) {
-  process.emit("SIGINT")
+  process.emit("SIGTERM")
   throw reason
 })
 
