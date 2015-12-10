@@ -1,1 +1,1 @@
-# react-driver
+# react-driver [![Build Status](https://travis-ci.org/QubitProducts/react-driver.svg)](https://travis-ci.org/QubitProducts/react-driver)
