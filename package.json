@@ -41,5 +41,13 @@
     "wd": "^0.4.0",
     "webpack": "^1.12.9",
     "when": "^3.7.5"
+  },
+  "devDependencies": {
+    "babel-eslint": "^4.1.6",
+    "publish-please": "^1.1.0",
+    "standard": "^5.4.1"
+  },
+  "standard": {
+    "parser": "babel-eslint"
   }
 }
