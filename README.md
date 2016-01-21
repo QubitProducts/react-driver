@@ -69,10 +69,6 @@ describe('foo.com', function () {
 ![](http://g.recordit.co/Vpj2x1jFM5.gif)
 
 
-### Great! Can I use it yet?
-
-I'd love to say yes, but we aren't quite there yet. 
-
 
 ### Want to work on this for your day job?
 
