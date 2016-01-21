@@ -10,6 +10,8 @@ Luckily, thanks to developments in medical science, we now have a cure! Introduc
 
 # react-driver [![Build Status](https://travis-ci.org/QubitProducts/react-driver.svg)](https://travis-ci.org/QubitProducts/react-driver)
 
+:warning: __react-driver is currently still a proof of concept and is not functional. A public alpha is expected to be available in February/March. We are, however, fully open to feedback on the idea so please open an issue to get involved!__ :warning:
+
 `react-driver` does three things:
 
 * It lets you perform `react.js`-aware web automations, removing the need for unreliable timeouts/intervals and enabling component-based element selectors thanks to [enzyme](http://airbnb.io/enzyme/)
@@ -69,7 +71,7 @@ describe('foo.com', function () {
 
 ### Great! Can I use it yet?
 
-I'd love to say yes, but we aren't quite there yet. A public alpha is expected to be available in early January. We are, however, fully open to initial feedback on the idea so please open an issue to get involved!
+I'd love to say yes, but we aren't quite there yet. 
 
 
 ### Want to work on this for your day job?
